@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vbachdoan/static/css/main.2866b74d.css",
+    "main.js": "/vbachdoan/static/js/main.85eef1a9.js",
+    "index.html": "/vbachdoan/index.html",
+    "main.2866b74d.css.map": "/vbachdoan/static/css/main.2866b74d.css.map",
+    "main.85eef1a9.js.map": "/vbachdoan/static/js/main.85eef1a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2866b74d.css",
+    "static/js/main.85eef1a9.js"
+  ]
+}
